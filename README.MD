@@ -5,5 +5,5 @@ Simple console game on the golang
 2. Run the command `go run main.go` in the terminal
 or
 3. Run the command `go build main.go` in the terminal and then run the file
-`game_runnner`
+`game_runner`
 and Enjoy the game!
