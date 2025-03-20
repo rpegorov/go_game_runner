@@ -1,4 +1,4 @@
-Simple console game on the golanug
+Simple console game on the golang
 
 ## How to run
 1. Clone the repository
